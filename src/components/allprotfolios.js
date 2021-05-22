@@ -1,6 +1,7 @@
 import port1 from '../img/portImages/doctors_portal.png';
 import port2 from '../img/portImages/food_shop.png';
 import port3 from '../img/portImages/trafic_school.png';
+import port4 from '../img/portImages/ride-to-destination.png'
 
 
 const portfolios = [
@@ -39,6 +40,18 @@ const portfolios = [
         title: 'Traffic-School',
         description: 'A single page web application that allow the user to choose a particular service which is dynamic and it also allow the user to give reviews which is dynamic and will show at the homepage based on traffic school performance. Admin can add or delete a service booked by user.',
         technology: 'React.js,  JavaScript,  Node.js,  MongoDB,  Express.js,  CSS,  HTML5,  Bootstrap, ES6,  Firebase,  react  hook  form.'
+    },
+    {
+        id: 4,
+        category: 'Full-Stack',
+        link1: 'https://github.com/debrajdas8982/Ride-to-Destination-09-assignment-updated',
+        link2: 'https://ride-to-destination.web.app/',
+        icon1: 'GitHub',
+        icon2: 'Live',
+        image: port4,
+        title: 'Ride-To-Destination',
+        description: 'A single page web application that allow the user to choose a particular destination based on some pre-created fake-data. User then choose a particular destination, time and date and based on that data a detailed information of the ride will show in a tabular form. ',
+        technology: 'React.js,  JavaScript,  Node.js, CSS,  HTML5,  Bootstrap, ES6,  Firebase,  react  hook  form.'
     }
   
     

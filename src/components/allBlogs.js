@@ -10,7 +10,7 @@ const blogs = [
         id: 1,
         image: blog1,
         title: 'JavaScript Solution',
-        link: '',
+        link: 'https://debrajdas8982.github.io/Cooking-master/',
         date : '21',
         month: 'Mar',
         year: '2020'
