@@ -19,7 +19,7 @@ const AboutPage = () => {
                 <SkillsSection skill={'Typescript'} progress={'30%'} width={'30%'} />
                 <SkillsSection skill={'React Js'} progress={'70%'} width={'70%'} />
                 <SkillsSection skill={'Node Js'} progress={'80%'} width={'80%'} />
-                <SkillsSection skill={'Web Design'} progress={'25%'} width={'25%'} />
+                <SkillsSection skill={'Web Design'} progress={'75%'} width={'75%'} />
                 <SkillsSection skill={'UI/Ux Design'} progress={'76%'} width={'76%'} />
         </div>
         <Title title={'Services'} span={'Services'} />
