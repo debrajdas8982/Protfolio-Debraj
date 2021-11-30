@@ -7,7 +7,7 @@ import Title from '../components/Title';
 const allCategories = ['All', ...new Set(portfolios.map(item => item.category))];
 
 const ProtfoliosPage = () => {
-    const [categories, setCategories] = useState(allCategories);
+    const [categories] = useState(allCategories);
     const [menuItems, setMenuItems] = useState(portfolios);
 
     const filter = (category) =>{
